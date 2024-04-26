@@ -1,7 +1,10 @@
 {
   "packages": {
     ".": {
-      "release-type": "ruby"
+      "release-type": "ruby",
+      "extra-files": [
+        "fake4ea5_gem.gemspec"
+      ]
     }
   }
 }
