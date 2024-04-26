@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/0xdbe/fake4ea5-gem/compare/v1.2.0...v1.2.1) (2024-04-26)
+
+
+### Bug Fixes
+
+* add id token for release pipeline ([93a4d55](https://github.com/0xdbe/fake4ea5-gem/commit/93a4d5570e5ed34d9c140c9c95c17afba4f7301f))
+
 ## [1.2.0](https://github.com/0xdbe/fake4ea5-gem/compare/v1.1.1...v1.2.0) (2024-04-26)
 
 
