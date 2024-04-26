@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/0xdbe/fake4ea5-gem/compare/v1.1.1...v1.2.0) (2024-04-26)
+
+
+### Features
+
+* add readme ([761bcf1](https://github.com/0xdbe/fake4ea5-gem/commit/761bcf12354516512f52337ca9d9585dc249a967))
+
 ## [1.1.1](https://github.com/0xdbe/fake4ea5-gem/compare/v1.1.0...v1.1.1) (2024-04-26)
 
 
