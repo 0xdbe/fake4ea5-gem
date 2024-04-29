@@ -4,6 +4,6 @@ Gem::Specification.new do |s|
   s.version     = "1.2.1"
   # x-release-please-end
   s.summary     = "Fake gem for testing purpose"
-  s.authors     = ["0xdbe"]
+  s.authors     = ["gem0xdbe"]
   s.files       = ["lib/fake4ea5_gem.rb"]
 end
