@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.2](https://github.com/0xdbe/fake4ea5-gem/compare/v1.2.1...v1.2.2) (2024-04-29)
+
+
+### Bug Fixes
+
+* change gem author ([1ba1012](https://github.com/0xdbe/fake4ea5-gem/commit/1ba1012f9619f46789ccff89dedf7fd4d101404d))
+
 ## [1.2.1](https://github.com/0xdbe/fake4ea5-gem/compare/v1.2.0...v1.2.1) (2024-04-26)
 
 
