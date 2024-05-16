@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.3](https://github.com/0xdbe/fake4ea5-gem/compare/v1.2.2...v1.2.3) (2024-05-16)
+
+
+### Bug Fixes
+
+* bump version ([c9d4c88](https://github.com/0xdbe/fake4ea5-gem/commit/c9d4c888c38e9754b091c59ad0869ec7f8c54f00))
+
 ## [1.2.2](https://github.com/0xdbe/fake4ea5-gem/compare/v1.2.1...v1.2.2) (2024-04-29)
 
 
